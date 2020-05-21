@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class ex95 {
+public class JUnit95 {
 	public static WebDriver driver;
 
 	public static void main(String[] args) throws InterruptedException {
